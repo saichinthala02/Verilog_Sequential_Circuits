@@ -1,0 +1,70 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:00:38 on Oct 04,2025
+# vlog -reportprogress 300 tb_jk_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	sr_latch
+# 	top
+# End time: 11:00:38 on Oct 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 11:00:39 on Oct 04,2025
+# Loading work.top
+# Loading work.jk_latch
+# --------------------------
+# -------> JK LATCH <-------
+# --------------------------
+# |  J  |  k  |  Q  | Qbar |
+# --------------------------
+# |  0  |  0  |  0  |   1  |
+# |  0  |  1  |  0  |   1  |
+# |  1  |  0  |  1  |   0  |
+# |  1  |  1  |  0  |   1  |
+# |  0  |  0  |  0  |   1  |
+# |  1  |  1  |  1  |   0  |
+# |  1  |  1  |  1  |   0  |
+# --------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:01:56 on Oct 04,2025
+# vlog -reportprogress 300 tb_jk_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	sr_latch
+# 	top
+# End time: 11:01:57 on Oct 04,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 11:01:58 on Oct 04,2025, Elapsed time: 0:01:19
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 11:01:59 on Oct 04,2025
+# Loading work.top
+# Loading work.jk_latch
+# --------------------------
+# -------> JK LATCH <-------
+# --------------------------
+# |  J  |  k  |  Q  | Qbar |
+# --------------------------
+# |  0  |  0  |  0  |   1  |
+# |  0  |  1  |  0  |   1  |
+# |  1  |  0  |  1  |   0  |
+# |  1  |  1  |  0  |   1  |
+# |  0  |  0  |  0  |   1  |
+# |  1  |  1  |  1  |   0  |
+# |  1  |  1  |  1  |   0  |
+# --------------------------
+vsim -quit
+# ** Error: (vish-3296) Unknown option '-quit'.
+# Use the -help option for complete vsim usage.
+# Error loading design
+quit -sim
+# End time: 11:02:21 on Oct 04,2025, Elapsed time: 0:00:22
+# Errors: 3, Warnings: 0
