@@ -1,0 +1,120 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:21:02 on Oct 03,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:21:02 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 23:21:02 on Oct 03,2025
+# Loading work.top
+# Loading work.sr_latch
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:35:15 on Oct 03,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:35:15 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 23:35:17 on Oct 03,2025, Elapsed time: 0:14:15
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 23:35:17 on Oct 03,2025
+# Loading work.top
+# Loading work.sr_latch
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:51:54 on Oct 03,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:51:54 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 23:51:56 on Oct 03,2025, Elapsed time: 0:16:39
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 23:51:56 on Oct 03,2025
+# Loading work.top
+# Loading work.sr_latch
+# ** Warning: (vsim-3017) tb_sr_latch.v(7): [TFMPC] - Too few port connections. Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: sr_latch.v
+# ** Warning: (vsim-3722) tb_sr_latch.v(7): [TFMPC] - Missing connection for port 'qbar'.
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:54:13 on Oct 03,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:54:13 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 23:54:14 on Oct 03,2025, Elapsed time: 0:02:18
+# Errors: 0, Warnings: 2
+# vsim top 
+# Start time: 23:54:14 on Oct 03,2025
+# Loading work.top
+# Loading work.sr_latch
+# ** Warning: (vsim-3017) tb_sr_latch.v(7): [TFMPC] - Too few port connections. Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: sr_latch.v
+# ** Warning: (vsim-3722) tb_sr_latch.v(7): [TFMPC] - Missing connection for port 'qbar'.
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:56:56 on Oct 03,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 23:56:56 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 23:56:58 on Oct 03,2025, Elapsed time: 0:02:44
+# Errors: 0, Warnings: 2
+# vsim top 
+# Start time: 23:56:58 on Oct 03,2025
+# Loading work.top
+# Loading work.sr_latch
+# ** Warning: (vsim-3017) tb_sr_latch.v(7): [TFMPC] - Too few port connections. Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: sr_latch.v
+# ** Warning: (vsim-3722) tb_sr_latch.v(7): [TFMPC] - Missing connection for port 'qbar'.
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:02:39 on Oct 04,2025
+# vlog -reportprogress 300 tb_sr_latch.v 
+# -- Compiling module sr_latch
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 00:02:39 on Oct 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 00:02:41 on Oct 04,2025, Elapsed time: 0:05:43
+# Errors: 0, Warnings: 2
+# vsim top 
+# Start time: 00:02:41 on Oct 04,2025
+# Loading work.top
+# Loading work.sr_latch
+# ** Warning: (vsim-3017) tb_sr_latch.v(7): [TFMPC] - Too few port connections. Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: sr_latch.v
+# ** Warning: (vsim-3722) tb_sr_latch.v(7): [TFMPC] - Missing connection for port 'qbar'.
+# End time: 00:05:32 on Oct 04,2025, Elapsed time: 0:02:51
+# Errors: 0, Warnings: 2
