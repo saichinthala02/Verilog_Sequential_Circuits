@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Latch/D_LATCH
+vd_latch
+Z1 !s110 1759579712
+!i10b 1
+!s100 _IBlY1]UKNQhP5nkkM<lP2
+IA@lJCoUPk:SC1h;XYMOe_2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759579709
+Z3 8d_latch.v
+Z4 Fd_latch.v
+L0 2
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1759579712.000000
+Z7 !s107 d_latch.v|tb_d_latch.v|
+Z8 !s90 -reportprogress|300|tb_d_latch.v|
+!i113 1
+Z9 tCvgOpt 0
+vsr_latch
+!s110 1759556452
+!i10b 1
+!s100 ]S=::3f2Scijo7`ViSB]e2
+I^d@5BR_f@?nP14AI[nJMC1
+R2
+R0
+w1759556406
+R3
+R4
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1759556452.000000
+R7
+R8
+!i113 1
+R9
+vtop
+R1
+!i10b 1
+!s100 SWc4SF>4zdEb@6TzHE=`_1
+IVKWS;Jbk_A[L8HHEiTBfE3
+R2
+R0
+w1759579686
+8tb_d_latch.v
+Ftb_d_latch.v
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
