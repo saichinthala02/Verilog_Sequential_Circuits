@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/saich/OneDrive/Desktop/Sequential/FlipFlops
+vsr_ff
+Z0 !s110 1759749034
+!i10b 1
+!s100 b`><FOng;=CjcK;h5E6no2
+In@Va]Ge7]h6[9:9ME6z@I1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/saich/OneDrive/Desktop/Sequential/FlipFlops/SR_FF
+Z3 w1759582132
+Z4 8sr_ff_str.v
+Z5 Fsr_ff_str.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1759749034.000000
+Z8 !s107 sr_ff_str.v|
+Z9 !s90 -reportprogress|300|sr_ff_str.v|
+!i113 1
+Z10 tCvgOpt 0
+vtop
+R0
+!i10b 1
+!s100 EjG?7DLfGD1deAYEoDF9z1
+I>jeHld<A6_=]1o;aOLI8Z3
+R1
+R2
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
