@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/FlipFlops/JK_FF
+vjk
+Z1 !s110 1760094916
+!i10b 1
+!s100 F7A4[L`DUQYgJHBgm?zNJ0
+Il^jD5nFP0dIi9a1W0N@H;1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1760060345
+Z4 8jk_ff_str.v
+Z5 Fjk_ff_str.v
+L0 17
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1760094916.000000
+Z8 !s107 jk_ff_str.v|
+Z9 !s90 -reportprogress|300|jk_ff_str.v|
+!i113 1
+Z10 tCvgOpt 0
+vjk_ff
+!s110 1759648287
+!i10b 1
+!s100 W24zALm8;fakPaa2L@i?A0
+IVPmzQVC[AGO^?`AcIkYjY3
+R2
+R0
+w1759648280
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1759648287.000000
+R8
+R9
+!i113 1
+R10
+vjk_master_slave
+!s110 1759749560
+!i10b 1
+!s100 @2kzoD=obI6[=EPA]<GB71
+IaEL<=HCY:ibD8YU?jE2S>0
+R2
+R0
+w1759749542
+R4
+R5
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1759749559.000000
+R8
+R9
+!i113 1
+R10
+vtop
+R1
+!i10b 1
+!s100 Szd0gRz0ikb6`PZ1TV@631
+I@2ieij[X<kgAB@c5DU]Rz2
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
