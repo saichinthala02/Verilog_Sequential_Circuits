@@ -1,0 +1,23 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:17:51 on Oct 05,2025
+# vlog -reportprogress 300 tb_dff.v 
+# -- Compiling module dff
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 13:17:51 on Oct 05,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 13:17:51 on Oct 05,2025
+# Loading work.top
+# Loading work.dff
+# ** Note: $finish    : tb_dff.v(26)
+#    Time: 250 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_dff.v line 26
+# End time: 13:19:18 on Oct 05,2025, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 0
