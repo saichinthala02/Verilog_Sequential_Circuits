@@ -1,0 +1,22 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:08:38 on Oct 05,2025
+# vlog -reportprogress 300 tb_tff.v 
+# -- Compiling module tff
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 13:08:38 on Oct 05,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 13:08:38 on Oct 05,2025
+# Loading work.top
+# Loading work.tff
+# ** Note: $finish    : tb_tff.v(25)
+#    Time: 200 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_tff.v line 25
+# End time: 13:16:03 on Oct 05,2025, Elapsed time: 0:07:25
+# Errors: 0, Warnings: 0
