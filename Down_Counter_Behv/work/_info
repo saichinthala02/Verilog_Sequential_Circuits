@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Counters/Down_Counter_Behv
+vdown_counter
+Z1 !s110 1759768540
+!i10b 1
+!s100 8QYHWAVlC:TIfc<eVaOJ`0
+IS5Lef^3=T`INUJjG:A`o62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759752687
+8down_counter.v
+Fdown_counter.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759768540.000000
+Z5 !s107 down_counter.v|tb_down_counter.v|
+Z6 !s90 -reportprogress|300|tb_down_counter.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 SnK`bJ22PizMQSEo4FdY22
+IXkPIMRb17]BIO7TomPVa31
+R2
+R0
+w1759752552
+8tb_down_counter.v
+Ftb_down_counter.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
