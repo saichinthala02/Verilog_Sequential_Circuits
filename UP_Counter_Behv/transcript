@@ -1,0 +1,111 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:19:21 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# ** Error: (vlog-13069) tb_up_counter.v(14): near "repeat": syntax error, unexpected repeat, expecting ';'.
+# End time: 17:19:21 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_up_counter.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:10 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# ** Error: (vlog-13069) tb_up_counter.v(14): near "repeat": syntax error, unexpected repeat, expecting ';'.
+# End time: 17:20:10 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_up_counter.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:25 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# ** Error: tb_up_counter.v(12): (vlog-2110) Illegal reference to net "count".
+# End time: 17:20:25 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_up_counter.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:38 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 17:20:38 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 17:20:38 on Oct 06,2025
+# Loading work.top
+# Loading work.up_counter
+# ** Note: $finish    : tb_up_counter.v(18)
+#    Time: 400 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_up_counter.v line 18
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:48 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 17:22:48 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:22:55 on Oct 06,2025, Elapsed time: 0:02:17
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 17:22:55 on Oct 06,2025
+# Loading work.top
+# Loading work.up_counter
+# ** Note: $finish    : tb_up_counter.v(23)
+#    Time: 400 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_up_counter.v line 23
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:40 on Oct 06,2025
+# vlog -reportprogress 300 tb_up_counter.v 
+# -- Compiling module up_counter
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 17:24:40 on Oct 06,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:24:46 on Oct 06,2025, Elapsed time: 0:01:51
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 17:24:46 on Oct 06,2025
+# Loading work.top
+# Loading work.up_counter
+# ** Note: $finish    : tb_up_counter.v(18)
+#    Time: 400 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_up_counter.v line 18
+# End time: 17:27:06 on Oct 06,2025, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 0
