@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Counters/UP_DOWN_Counter_Str
+vd_ff
+Z1 !s110 1760439678
+!i10b 1
+!s100 kaRHjZI]SKRe`jDSKYkKn0
+ITGCcUIOaS[7]0^[`J[Ckg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759750680
+8d_ff.v
+Fd_ff.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760439677.000000
+Z5 !s107 d_ff.v|up_down.v|tb_up_down.v|
+Z6 !s90 -reportprogress|300|tb_up_down.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 e;k9;X>k1FDfNE1Xi7g>[0
+IM3:c48Jf`R`10jY^o9Kbi2
+R2
+R0
+w1759904168
+8tb_up_down.v
+Ftb_up_down.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vup_down
+R1
+!i10b 1
+!s100 4_:<:X=E2a=F2gB4F8kJ@2
+IM0QI3bo`Mi;J^QZ7:=c:F0
+R2
+R0
+w1759903013
+8up_down.v
+Fup_down.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
