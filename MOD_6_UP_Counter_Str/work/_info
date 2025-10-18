@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Counters/MOD_6_UP_Counter_Str
+vd_ff
+Z1 !s110 1760069389
+!i10b 1
+!s100 kaRHjZI]SKRe`jDSKYkKn0
+ITGCcUIOaS[7]0^[`J[Ckg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759750680
+8d_ff.v
+Fd_ff.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760069389.000000
+Z5 !s107 d_ff.v|mod_6.v|tb_mod6.v|
+Z6 !s90 -reportprogress|300|tb_mod6.v|
+!i113 1
+Z7 tCvgOpt 0
+vmod_6
+R1
+!i10b 1
+!s100 `95e:4IY[6dS2@U>R`ii23
+I@;jI>3cLId?k[h[Wb8Zz:2
+R2
+R0
+w1760069379
+8mod_6.v
+Fmod_6.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtop
+R1
+!i10b 1
+!s100 hK9bI9B51oSBA2;a6M4ze2
+I_33<gjGFM<aKn2a;1[ecL3
+R2
+R0
+w1760068900
+8tb_mod6.v
+Ftb_mod6.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
