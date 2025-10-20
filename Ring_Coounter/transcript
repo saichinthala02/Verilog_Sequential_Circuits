@@ -1,0 +1,86 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:52:36 on Oct 07,2025
+# vlog -reportprogress 300 tb_ring_counter.v 
+# -- Compiling module ring
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 19:52:36 on Oct 07,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 19:52:37 on Oct 07,2025
+# Loading work.top
+# Loading work.ring
+# ** Note: $finish    : tb_ring_counter.v(15)
+#    Time: 415 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_ring_counter.v line 15
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:55:52 on Oct 07,2025
+# vlog -reportprogress 300 tb_ring_counter.v 
+# -- Compiling module ring
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 19:55:52 on Oct 07,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:55:58 on Oct 07,2025, Elapsed time: 0:03:21
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 19:55:58 on Oct 07,2025
+# Loading work.top
+# Loading work.ring
+# --> 4 Bit Ring Counter <--
+# 	--> xxxx 
+# 	--> 0001 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# 	--> 0010 
+# 	--> 0001 
+# 	--> 1000 
+# 	--> 0100 
+# ** Note: $finish    : tb_ring_counter.v(19)
+#    Time: 415 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_ring_counter.v line 19
+# End time: 19:58:40 on Oct 07,2025, Elapsed time: 0:02:42
+# Errors: 0, Warnings: 0
