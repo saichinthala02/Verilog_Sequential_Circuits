@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Counters/Gray_Counter
+vgray
+Z1 !s110 1759851012
+!i10b 1
+!s100 =6]Hfaa<@T`CdzL^Y`<@D3
+I[iTbkHHOZ[_SZkomX7NLT3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759850677
+8gray_counter.v
+Fgray_counter.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759851012.000000
+Z5 !s107 gray_counter.v|tb_gray_counter.v|
+Z6 !s90 -reportprogress|300|tb_gray_counter.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 1c4dd^@R@5H1RIGYVNTZW1
+I@Tm9kcJN45gJCRc^]dU]P1
+R2
+R0
+w1759850970
+8tb_gray_counter.v
+Ftb_gray_counter.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
