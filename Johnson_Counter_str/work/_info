@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Counters/Johnson_Counter_str
+vd_ff
+Z1 !s110 1760070914
+!i10b 1
+!s100 kaRHjZI]SKRe`jDSKYkKn0
+ITGCcUIOaS[7]0^[`J[Ckg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759750680
+8d_ff.v
+Fd_ff.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760070914.000000
+Z5 !s107 d_ff.v|johnson.v|tb_johnson.v|
+Z6 !s90 -reportprogress|300|tb_johnson.v|
+!i113 1
+Z7 tCvgOpt 0
+vjohnson
+R1
+!i10b 1
+!s100 F3]=FXliV0MkWJeNX]2;[3
+I4Rec>;7IOf1D<d6eOC@B53
+R2
+R0
+w1760070340
+8johnson.v
+Fjohnson.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtop
+R1
+!i10b 1
+!s100 UGDJLiJFUzXi1Ck0^T6S_0
+Ig6X2@mg^9C0:_VZ8`]BAn1
+R2
+R0
+w1760070905
+8tb_johnson.v
+Ftb_johnson.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
