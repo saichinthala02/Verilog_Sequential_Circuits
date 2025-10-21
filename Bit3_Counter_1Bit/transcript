@@ -1,0 +1,70 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:54:47 on Oct 21,2025
+# vlog -reportprogress 300 3bit_counter_1bit.v 
+# -- Compiling module counter_1bit
+# -- Compiling module counter_3bit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:54:47 on Oct 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:54:48 on Oct 21,2025
+# Loading work.top
+# Loading work.counter_3bit
+# Loading work.counter_1bit
+# Time: 0 | Count = 0
+# Time: 25 | Count = 7
+# Time: 35 | Count = 6
+# Time: 45 | Count = 5
+# Time: 55 | Count = 4
+# Time: 65 | Count = 3
+# Time: 75 | Count = 2
+# Time: 85 | Count = 1
+# Time: 95 | Count = 0
+# Time: 105 | Count = 7
+# ** Note: $finish    : 3bit_counter_1bit.v(33)
+#    Time: 115 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at 3bit_counter_1bit.v line 33
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:55:40 on Oct 21,2025
+# vlog -reportprogress 300 3bit_counter_1bit.v 
+# -- Compiling module counter_1bit
+# -- Compiling module counter_3bit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:55:40 on Oct 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:55:46 on Oct 21,2025, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:55:46 on Oct 21,2025
+# Loading work.top
+# Loading work.counter_3bit
+# Loading work.counter_1bit
+# Time: 0 | Count = 0
+# Time: 20 | Count = 1
+# Time: 30 | Count = 2
+# Time: 40 | Count = 3
+# Time: 50 | Count = 4
+# Time: 60 | Count = 5
+# Time: 70 | Count = 6
+# Time: 80 | Count = 7
+# Time: 90 | Count = 0
+# Time: 100 | Count = 1
+# Time: 110 | Count = 2
+# ** Note: $finish    : 3bit_counter_1bit.v(33)
+#    Time: 115 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at 3bit_counter_1bit.v line 33
+# End time: 15:57:40 on Oct 21,2025, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 0
