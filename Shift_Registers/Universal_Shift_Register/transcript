@@ -1,0 +1,28 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:50:33 on Oct 15,2025
+# vlog -reportprogress 300 tb_shift.v 
+# -- Compiling module shift_reg
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:50:33 on Oct 15,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:50:33 on Oct 15,2025
+# Loading work.top
+# Loading work.shift_reg
+# Time=35 | rst=0 | select=01 | sL=0 | sR=1 | p_din=1011 | p_dout=0001
+# Time=45 | rst=0 | select=01 | sL=1 | sR=1 | p_din=1101 | p_dout=0000
+# Time=55 | rst=0 | select=11 | sL=0 | sR=1 | p_din=0001 | p_dout=1000
+# Time=65 | rst=0 | select=01 | sL=0 | sR=1 | p_din=0011 | p_dout=0001
+# Time=75 | rst=0 | select=01 | sL=0 | sR=1 | p_din=0011 | p_dout=0000
+# ** Note: $finish    : tb_shift.v(41)
+#    Time: 175 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_shift.v line 41
+# End time: 10:53:40 on Oct 15,2025, Elapsed time: 0:03:07
+# Errors: 0, Warnings: 0

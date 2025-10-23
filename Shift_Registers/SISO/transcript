@@ -1,0 +1,668 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:54:07 on Oct 17,2025
+# vlog -reportprogress 300 tb_siso.v 
+# -- Compiling module dff
+# -- Compiling module siso
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 09:54:07 on Oct 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 09:54:07 on Oct 17,2025
+# Loading work.top
+# Loading work.siso
+# Loading work.dff
+# Time:- 0 | Sin: 0 | Pout: xxxx | Sout: x
+# Time:- 5 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 35 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 45 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 55 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 65 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 75 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 95 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 105 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 125 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 135 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 145 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 155 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 165 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 175 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 185 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 195 | Sin: 0 | Pout: 1010 | Sout: 0
+# Time:- 205 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 215 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 225 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 235 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 245 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 255 | Sin: 0 | Pout: 0101 | Sout: 1
+# Time:- 265 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 275 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 285 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 295 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 305 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 315 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 325 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 335 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 345 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 355 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 365 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 375 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 385 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 395 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 405 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 415 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 425 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 435 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 445 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 455 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 465 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 475 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 485 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 495 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 505 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 515 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 525 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 535 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 545 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 555 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 565 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 575 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 585 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 595 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 605 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 615 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 625 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 635 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 645 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 655 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 665 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 675 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 685 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 695 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 705 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 715 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 725 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 735 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 745 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 755 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 765 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 775 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 785 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 795 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 805 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 815 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 825 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 835 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 845 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 855 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 865 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 875 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 885 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 895 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 905 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 915 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 925 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 935 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 945 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 955 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 965 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 975 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 985 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 995 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1005 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1015 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1025 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1035 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1045 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1055 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1065 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1075 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1085 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1095 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 1125 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1135 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1145 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1155 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1165 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1175 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1185 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1195 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1205 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1215 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1225 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1235 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1245 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1255 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 1265 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1275 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1285 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1295 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1305 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1315 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1325 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1335 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1345 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1355 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1365 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1375 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1385 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1395 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1405 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1415 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1425 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1435 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1445 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1455 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1465 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1475 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1485 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1495 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1505 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1515 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1525 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1535 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1545 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1555 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1565 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1575 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1585 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1595 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1605 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1615 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1625 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1635 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1645 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1655 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1665 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1675 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1685 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1695 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1705 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1715 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1725 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1735 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1745 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1755 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1765 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1775 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1785 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1795 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1805 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1815 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1825 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1835 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1845 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1855 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1865 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1875 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1885 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1895 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1905 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1915 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1925 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1935 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1945 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1955 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1965 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1975 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1985 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1995 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 2005 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 2015 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 2025 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 2035 | Sin: 1 | Pout: 1111 | Sout: 1
+# ** Note: $finish    : tb_siso.v(21)
+#    Time: 2115 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_siso.v line 21
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:57:02 on Oct 17,2025
+# vlog -reportprogress 300 tb_siso.v 
+# -- Compiling module dff
+# -- Compiling module siso
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 09:57:02 on Oct 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 09:57:05 on Oct 17,2025, Elapsed time: 0:02:58
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 09:57:05 on Oct 17,2025
+# Loading work.top
+# Loading work.siso
+# Loading work.dff
+# Time:- 0 | Sin: 0 | Pout: xxxx | Sout: x
+# Time:- 5 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 35 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 45 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 55 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 65 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 75 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 95 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 105 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 125 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 135 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 145 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 155 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 165 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 175 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 185 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 195 | Sin: 0 | Pout: 1010 | Sout: 0
+# Time:- 205 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 215 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 225 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 235 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 245 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 255 | Sin: 0 | Pout: 0101 | Sout: 1
+# Time:- 265 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 275 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 285 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 295 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 305 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 315 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 325 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 335 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 345 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 355 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 365 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 375 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 385 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 395 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 405 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 415 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 425 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 435 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 445 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 455 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 465 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 475 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 485 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 495 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 505 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 515 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 525 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 535 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 545 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 555 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 565 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 575 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 585 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 595 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 605 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 615 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 625 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 635 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 645 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 655 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 665 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 675 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 685 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 695 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 705 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 715 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 725 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 735 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 745 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 755 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 765 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 775 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 785 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 795 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 805 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 815 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 825 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 835 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 845 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 855 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 865 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 875 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 885 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 895 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 905 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 915 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 925 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 935 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 945 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 955 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 965 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 975 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 985 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 995 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1005 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1015 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1025 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1035 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1045 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1055 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1065 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1075 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1085 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1095 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 1125 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1135 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1145 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1155 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1165 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1175 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1185 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1195 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1205 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1215 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1225 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1235 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1245 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1255 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 1265 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1275 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1285 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1295 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1305 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1315 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1325 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1335 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1345 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1355 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1365 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1375 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1385 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1395 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1405 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1415 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1425 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1435 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1445 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1455 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1465 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1475 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1485 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1495 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1505 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1515 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1525 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1535 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1545 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1555 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1565 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1575 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1585 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1595 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1605 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1615 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1625 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1635 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1645 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1655 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1665 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1675 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1685 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1695 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1705 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1715 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1725 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1735 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1745 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1755 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1765 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1775 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1785 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1795 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1805 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1815 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1825 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1835 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1845 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1855 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1865 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1875 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1885 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1895 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1905 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1915 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1925 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1935 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1945 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1955 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1965 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1975 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1985 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1995 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 2005 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 2015 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 2025 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 2035 | Sin: 1 | Pout: 1111 | Sout: 1
+# ** Note: $finish    : tb_siso.v(21)
+#    Time: 2115 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_siso.v line 21
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:58:50 on Oct 17,2025
+# vlog -reportprogress 300 tb_siso.v 
+# -- Compiling module dff
+# -- Compiling module siso
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 09:58:50 on Oct 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 09:58:52 on Oct 17,2025, Elapsed time: 0:01:47
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 09:58:52 on Oct 17,2025
+# Loading work.top
+# Loading work.siso
+# Loading work.dff
+# Time:- 0 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 35 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 45 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 55 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 65 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 75 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 95 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 105 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 125 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 135 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 145 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 155 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 165 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 175 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 185 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 195 | Sin: 0 | Pout: 1010 | Sout: 0
+# Time:- 205 | Sin: 1 | Pout: 0101 | Sout: 1
+# Time:- 210 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 225 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 235 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 245 | Sin: 0 | Pout: 1011 | Sout: 1
+# Time:- 255 | Sin: 0 | Pout: 0101 | Sout: 1
+# Time:- 265 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 275 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 285 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 295 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 305 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 315 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 320 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 335 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 345 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 355 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 365 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 375 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 385 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 395 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 405 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 415 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 425 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 435 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 445 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 455 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 465 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 475 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 485 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 495 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 505 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 515 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 525 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 535 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 545 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 555 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 565 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 575 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 585 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 595 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 605 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 615 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 625 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 635 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 645 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 655 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 665 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 675 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 685 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 695 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 705 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 715 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 725 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 735 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 745 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 755 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 765 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 775 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 785 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 795 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 805 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 815 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 825 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 835 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 845 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 855 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 865 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 875 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 885 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 895 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 905 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 915 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 925 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 935 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 945 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 955 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 965 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 975 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 985 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 995 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1005 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1015 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1025 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1035 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1045 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1055 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1065 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1075 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1085 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1095 | Sin: 0 | Pout: 0000 | Sout: 0
+# Time:- 1125 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1135 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1145 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1155 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1165 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1175 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1185 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 1195 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1205 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1215 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1225 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1235 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1245 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1255 | Sin: 1 | Pout: 0110 | Sout: 0
+# Time:- 1265 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 1275 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1285 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1295 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1305 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1315 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1325 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1335 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1345 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1355 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1365 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1375 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1385 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1395 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1405 | Sin: 1 | Pout: 0011 | Sout: 1
+# Time:- 1415 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1425 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1435 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1445 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1455 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1465 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1475 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1485 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1495 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1505 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1515 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 1525 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 1535 | Sin: 1 | Pout: 1111 | Sout: 1
+# Time:- 1545 | Sin: 0 | Pout: 1111 | Sout: 1
+# Time:- 1555 | Sin: 0 | Pout: 0111 | Sout: 1
+# Time:- 1565 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1575 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1585 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1595 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1605 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1615 | Sin: 1 | Pout: 1001 | Sout: 1
+# Time:- 1625 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1635 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1645 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1655 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1665 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1675 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1685 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1695 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1705 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1715 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1725 | Sin: 0 | Pout: 1100 | Sout: 0
+# Time:- 1735 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1745 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1755 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1765 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1775 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1785 | Sin: 1 | Pout: 0010 | Sout: 0
+# Time:- 1795 | Sin: 0 | Pout: 1001 | Sout: 1
+# Time:- 1805 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1815 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1825 | Sin: 1 | Pout: 0001 | Sout: 1
+# Time:- 1835 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1845 | Sin: 1 | Pout: 0100 | Sout: 0
+# Time:- 1855 | Sin: 1 | Pout: 1010 | Sout: 0
+# Time:- 1865 | Sin: 0 | Pout: 1101 | Sout: 1
+# Time:- 1875 | Sin: 0 | Pout: 0110 | Sout: 0
+# Time:- 1885 | Sin: 0 | Pout: 0011 | Sout: 1
+# Time:- 1895 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1905 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1915 | Sin: 0 | Pout: 1000 | Sout: 0
+# Time:- 1925 | Sin: 0 | Pout: 0100 | Sout: 0
+# Time:- 1935 | Sin: 0 | Pout: 0010 | Sout: 0
+# Time:- 1945 | Sin: 0 | Pout: 0001 | Sout: 1
+# Time:- 1955 | Sin: 1 | Pout: 0000 | Sout: 0
+# Time:- 1965 | Sin: 1 | Pout: 1000 | Sout: 0
+# Time:- 1975 | Sin: 1 | Pout: 1100 | Sout: 0
+# Time:- 1985 | Sin: 0 | Pout: 1110 | Sout: 0
+# Time:- 1995 | Sin: 1 | Pout: 0111 | Sout: 1
+# Time:- 2005 | Sin: 1 | Pout: 1011 | Sout: 1
+# Time:- 2015 | Sin: 1 | Pout: 1101 | Sout: 1
+# Time:- 2025 | Sin: 1 | Pout: 1110 | Sout: 0
+# Time:- 2035 | Sin: 1 | Pout: 1111 | Sout: 1
+# ** Note: $finish    : tb_siso.v(21)
+#    Time: 2115 ps  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at tb_siso.v line 21
+# End time: 10:00:56 on Oct 17,2025, Elapsed time: 0:02:04
+# Errors: 0, Warnings: 0

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Sequential/Shift_Registers/Universal_Shift_Register
+vshift_reg
+Z1 !s110 1760505633
+!i10b 1
+!s100 ]?YUD<P0C7CN4Z1k8AaaU3
+ID3gAaoAjBJH[H6iYiAd5m1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1760505606
+8universal_shift_reg.v
+Funiversal_shift_reg.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1760505633.000000
+Z5 !s107 universal_shift_reg.v|tb_shift.v|
+Z6 !s90 -reportprogress|300|tb_shift.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 AF0@kRGR:<@Emzzc0W?cX0
+IkiO4Q>8;P6TS^L8DXH[OG0
+R2
+R0
+w1760505500
+8tb_shift.v
+Ftb_shift.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
